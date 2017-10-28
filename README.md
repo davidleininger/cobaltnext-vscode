@@ -1,4 +1,5 @@
 # CobaltNext Theme for VS Code
+[![Version](https://vsmarketplacebadge.apphb.com/version/dline.CobaltNext.svg)](https://marketplace.visualstudio.com/items?itemName=dline.CobaltNext)
 
 ![Preview](https://raw.githubusercontent.com/davidleininger/cobaltnext-vscode/master/images/screenshot.png)
 
