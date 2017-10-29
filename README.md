@@ -36,6 +36,8 @@
 ```
 
 ### Suggested Terminal Settings
+![Terminal Preview](https://github.com/davidleininger/cobaltnext-vscode/blob/master/images/terminal.png?raw=true)
+
 [ZSH](http://ohmyz.sh/) is a great shell and it adds support for git. I would suggest using the [Cobalt2 Theme](https://github.com/wesbos/Cobalt2-iterm) for ZSH. Make sure to get [Inconsolata for Powerline](https://github.com/powerline/fonts/blob/master/Inconsolata/Inconsolata%20for%20Powerline.otf) so that you can get all of the special characters in prompt.
 
 **Enjoy!**
