@@ -31,6 +31,7 @@
   "editor.cursorStyle": "line",
   "editor.cursorBlinking": "solid",
   "editor.renderWhitespace": "all",
+  "explorer.decorations.colors": false,
   "terminal.integrated.fontFamily": "Inconsolata for Powerline"
 }
 ```
