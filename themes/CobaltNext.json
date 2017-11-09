@@ -109,6 +109,12 @@
     "extensionButton.prominentHoverBackground": "#4e9b9b",
     "focusBorder": "#343d46",
     "foreground": "#d8dee9",
+    //git
+    "gitDecoration.modifiedResourceForeground": "#fac863",
+    "gitDecoration.deletedResourceForeground": "#ed6f7d",
+    "gitDecoration.untrackedResourceForeground": "#5fb3b3",
+    "gitDecoration.ignoredResourceForeground": "#ed6f7d",
+    "gitDecoration.conflictingResourceForeground": "#c5a5c5",
     // input
     "input.background": "#1b2b34",
     "input.border": "#343d46",
