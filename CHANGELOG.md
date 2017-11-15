@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "CobaltNext" extension will be documented in this file.
 
+## [0.0.6] - 2017-11-15
+### Changed
+- Update Extension Icon
+
 ## [0.0.5] - 2017-11-15
 ### Added
 - VS Code app icons to match theme (located in images)
