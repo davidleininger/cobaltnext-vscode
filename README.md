@@ -41,4 +41,13 @@
 
 [ZSH](http://ohmyz.sh/) is a great shell and it adds support for git. I would suggest using the [Cobalt2 Theme](https://github.com/wesbos/Cobalt2-iterm) for ZSH. Make sure to get [Inconsolata for Powerline](https://github.com/powerline/fonts/blob/master/Inconsolata/Inconsolata%20for%20Powerline.otf) so that you can get all of the special characters in prompt.
 
+## VS Code Icon
+Want to change up your VS Code Icon to match your theme? *Done.*
+
+![VS Code Icon Preview](https://github.com/davidleininger/cobaltnext-vscode/blob/master/images/vscode-cobaltnext.png?raw=true)
+
+[Download the .icns file.](https://github.com/davidleininger/cobaltnext-vscode/blob/master/images/vscode-cobaltnext.icns) (Mac)
+
+[Download the .ico file.](https://github.com/davidleininger/cobaltnext-vscode/blob/master/images/vscode-cobaltnext.ico)  (Win)
+
 **Enjoy!**
