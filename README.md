@@ -16,7 +16,7 @@
 
 ```js
 {
-  "workbench.colorTheme": "CobaltNext",
+  "workbench.colorTheme": "Cobalt Next",
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
   "eslint.autoFixOnSave": true,
