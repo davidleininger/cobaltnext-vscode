@@ -491,9 +491,21 @@
     },
     {
       "name": "[CSS] - Entity",
-      "scope": "source.css entity",
+      "scope": ["source.css entity", "source.scss entity"],
       "settings": {
         "foreground": "#c5a5c5"
+      }
+    },
+    {
+      "name": "[CSS] - Entity Tag Name",
+      "scope": [
+        "entity.name.tag",
+        "source.css entity.name",
+        "source.css entity.name.tag",
+        "source.scss entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#ed6f7d"
       }
     },
     {
@@ -514,7 +526,9 @@
       "name": "[CSS] - String",
       "scope": [
         "source.css string",
-        "source.css punctuation.definition.string"
+        "source.css punctuation.definition.string",
+        "source.scss string",
+        "source.scss punctuation.definition.string"
       ],
       "settings": {
         "foreground": "#99c794"
@@ -525,6 +539,13 @@
       "scope": "source.css variable",
       "settings": {
         "foreground": "#d8dee9"
+      }
+    },
+    {
+      "name": "[HTML] - Entity Name",
+      "scope": "text.html.basic entity.name",
+      "settings": {
+        "foreground": "#ed6f7d"
       }
     },
     {
