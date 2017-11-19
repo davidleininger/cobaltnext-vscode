@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "CobaltNext" extension will be documented in this file.
 
+## [0.0.9] - 2017-11-18
+### Changed
+- Better support for .scss
+
 ## [0.0.8] - 2017-11-18
 ### Changed
 - Change color for this in JS
