@@ -570,6 +570,13 @@
       }
     },
     {
+      "name": "[JAVASCRIPT] - Variable Language",
+      "scope": "variable.language, entity.name.type.class.js",
+      "settings": {
+        "foreground": "#ed6f7d"
+      }
+    },
+    {
       "name": "[MARKDOWN] - Changed",
       "scope": "markup.changed",
       "settings": {
