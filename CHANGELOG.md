@@ -1,6 +1,14 @@
 # Change Log
 All notable changes to the "CobaltNext" extension will be documented in this file.
 
+## [0.0.8] - 2017-11-18
+### Changed
+- Change color for this in JS
+
+## [0.0.7] - 2017-11-18
+### Changed
+- Cleaned up theme JSON
+
 ## [0.0.6] - 2017-11-15
 ### Changed
 - Update Extension Icon
