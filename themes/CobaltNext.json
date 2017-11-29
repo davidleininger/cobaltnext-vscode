@@ -278,7 +278,12 @@
     },
     {
       "name": "Keyword, Storage",
-      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier",
+        "storage.type.class.js"
+      ],
       "settings": {
         "foreground": "#c5a5c5"
       }
@@ -502,7 +507,9 @@
         "entity.name.tag",
         "source.css entity.name",
         "source.css entity.name.tag",
-        "source.scss entity.name.tag"
+        "source.scss entity.name.tag",
+        "source.css entity.name.tag entity.name.tag",
+        "source.scss entity.name.tag entity.name.tag"
       ],
       "settings": {
         "foreground": "#ed6f7d"
@@ -584,6 +591,13 @@
       }
     },
     {
+      "name": "[JAVASCRIPT] JSX Text",
+      "scope": ["source.js meta.block"],
+      "settings": {
+        "foreground": "#d8dee9"
+      }
+    },
+    {
       "name": "[JAVASCRIPT] - Storage Type Function",
       "scope": "source.js storage.type.function",
       "settings": {
@@ -601,7 +615,7 @@
       "name": "[MARKDOWN] - Changed",
       "scope": "markup.changed",
       "settings": {
-        "foreground": "#BB80B3"
+        "foreground": "#c5a5c5"
       }
     },
     {
