@@ -294,7 +294,7 @@
         "keyword.operator",
         "constant.other.color",
         "punctuation",
-        "meta.tag",
+        //"meta.tag",
         "punctuation.definition.tag",
         "punctuation.separator.inheritance.php",
         "punctuation.definition.tag.html",
