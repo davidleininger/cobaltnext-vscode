@@ -89,7 +89,7 @@
     "editorOverviewRuler.commonContentForeground": "#ffc60055",
     "editorOverviewRuler.currentContentForeground": "#ee3a4355",
     "editorOverviewRuler.incomingContentForeground": "#3ad90055",
-    "editorRuler.foreground": "#fac863",
+    "editorRuler.foreground": "#4f5b66",
     // editorSuggestWidget
     "editorSuggestWidget.background": "#0b151b",
     "editorSuggestWidget.border": "#5a9bcf",
@@ -278,12 +278,7 @@
     },
     {
       "name": "Keyword, Storage",
-      "scope": [
-        "keyword",
-        "storage.type",
-        "storage.modifier",
-        "storage.type.class.js"
-      ],
+      "scope": ["keyword", "storage.type", "storage.modifier", "storage.type.class.js"],
       "settings": {
         "foreground": "#c5a5c5"
       }
@@ -310,11 +305,7 @@
     },
     {
       "name": "Tag",
-      "scope": [
-        "entity.name.tag",
-        "meta.tag.sgml",
-        "markup.deleted.git_gutter"
-      ],
+      "scope": ["entity.name.tag", "meta.tag.sgml", "markup.deleted.git_gutter"],
       "settings": {
         "foreground": "#ed6f7d"
       }
@@ -387,11 +378,7 @@
     },
     {
       "name": "Sub-methods",
-      "scope": [
-        "entity.name.module.js",
-        "variable.import.parameter.js",
-        "variable.other.class.js"
-      ],
+      "scope": ["entity.name.module.js", "variable.import.parameter.js", "variable.other.class.js"],
       "settings": {
         "foreground": "#ed6f7d"
       }
@@ -414,10 +401,7 @@
     },
     {
       "name": "meta.method.js",
-      "scope": [
-        "meta.class-method.js entity.name.function.js",
-        "variable.function.constructor"
-      ],
+      "scope": ["meta.class-method.js entity.name.function.js", "variable.function.constructor"],
       "settings": {
         "foreground": "#D8DEE9"
       }
@@ -475,10 +459,7 @@
     },
     {
       "name": "Decorators",
-      "scope": [
-        "tag.decorator.js entity.name.tag.js",
-        "tag.decorator.js punctuation.definition.tag.js"
-      ],
+      "scope": ["tag.decorator.js entity.name.tag.js", "tag.decorator.js punctuation.definition.tag.js"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#5a9bcf"
@@ -486,9 +467,7 @@
     },
     {
       "name": "ES7 Bind Operator",
-      "scope": [
-        "source.js constant.other.object.key.js string.unquoted.label.js"
-      ],
+      "scope": ["source.js constant.other.object.key.js string.unquoted.label.js"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#ed6f7d"
@@ -709,10 +688,7 @@
     },
     {
       "name": "[MARKDOWN] - Link Address",
-      "scope": [
-        "markup.underline.link.markdown",
-        "markup.underline.link.image.markdown"
-      ],
+      "scope": ["markup.underline.link.markdown", "markup.underline.link.image.markdown"],
       "settings": {
         "foreground": "#5a9bcf"
       }
@@ -851,13 +827,7 @@
     },
     {
       "name": "Italicsify for Operator Mono",
-      "scope": [
-        "modifier",
-        "this",
-        "comment",
-        "storage.modifier.js",
-        "entity.other.attribute-name.js"
-      ],
+      "scope": ["modifier", "this", "comment", "storage.modifier.js", "entity.other.attribute-name.js"],
       "settings": {
         "fontStyle": "italic"
       }
