@@ -1,4 +1,5 @@
 # CobaltNext Theme for VS Code
+
 [![Version](https://vsmarketplacebadge.apphb.com/version/dline.CobaltNext.svg)](https://marketplace.visualstudio.com/items?itemName=dline.CobaltNext)
 
 ![Preview](https://raw.githubusercontent.com/davidleininger/cobaltnext-vscode/master/images/screenshot.png)
@@ -17,6 +18,7 @@
 ```js
 {
   "workbench.colorTheme": "Cobalt Next",
+  "workbench.editor.tabSizing": "shrink",
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
   "eslint.autoFixOnSave": true,
@@ -37,17 +39,19 @@
 ```
 
 ### Suggested Terminal Settings
+
 ![Terminal Preview](https://github.com/davidleininger/cobaltnext-vscode/blob/master/images/terminal.png?raw=true)
 
 [ZSH](http://ohmyz.sh/) is a great shell and it adds support for git. I would suggest using the [Cobalt2 Theme](https://github.com/wesbos/Cobalt2-iterm) for ZSH. Make sure to get [Inconsolata for Powerline](https://github.com/powerline/fonts/blob/master/Inconsolata/Inconsolata%20for%20Powerline.otf) so that you can get all of the special characters in prompt.
 
 ## VS Code Icon
-Want to change up your VS Code Icon to match your theme? *Done.*
+
+Want to change up your VS Code Icon to match your theme? _Done._
 
 ![VS Code Icon Preview](https://github.com/davidleininger/cobaltnext-vscode/blob/master/images/vscode-cobaltnext.png?raw=true)
 
 [Download the .icns file.](https://github.com/davidleininger/cobaltnext-vscode/blob/master/images/vscode-cobaltnext.icns) (Mac)
 
-[Download the .ico file.](https://github.com/davidleininger/cobaltnext-vscode/blob/master/images/vscode-cobaltnext.ico)  (Win)
+[Download the .ico file.](https://github.com/davidleininger/cobaltnext-vscode/blob/master/images/vscode-cobaltnext.ico) (Win)
 
 **Enjoy!**
