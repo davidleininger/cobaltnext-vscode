@@ -41,8 +41,8 @@
     // Currently found item
     "editor.findMatchBackground": "#65737e",
     // Other Found Items
-    "editor.findMatchHighlightBackground": "#65737e",
-    "editor.findRangeHighlightBackground": "#65737e",
+    "editor.findMatchHighlightBackground": "#5a9bcf70",
+    "editor.findRangeHighlightBackground": "#5a9bcf70",
     "editor.hoverHighlightBackground": "#343d46",
     "editor.inactiveSelectionBackground": "#1b2b34",
     // current line styles
@@ -99,7 +99,7 @@
     // editorWarning
     "editorWarning.border": "#343d46",
     "editorWarning.foreground": "#fac863",
-    "editorWhitespace.foreground": "#1b2b34",
+    "editorWhitespace.foreground": "#4f5b66",
     "editorWidget.background": "#0f1c23",
     "editorWidget.border": "#343d46",
     "errorForeground": "#ed6f7d",
@@ -113,7 +113,7 @@
     "gitDecoration.modifiedResourceForeground": "#fac863",
     "gitDecoration.deletedResourceForeground": "#ed6f7d",
     "gitDecoration.untrackedResourceForeground": "#5fb3b3",
-    "gitDecoration.ignoredResourceForeground": "#ed6f7d",
+    "gitDecoration.ignoredResourceForeground": "#4f5b66",
     "gitDecoration.conflictingResourceForeground": "#c5a5c5",
     // input
     "input.background": "#1b2b34",
