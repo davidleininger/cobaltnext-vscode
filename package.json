@@ -2,7 +2,7 @@
     "name": "CobaltNext",
     "displayName": "Cobalt Next",
     "description": "If Oceanic Next and Cobalt2 made a baby in the form of a theme for VSCode. Style whole window.",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "publisher": "dline",
     "engines": {
         "vscode": "^1.17.0"
