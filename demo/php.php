@@ -1,8 +1,8 @@
 
 
 <?php
-  $age = 100;
-  $name = 'wes';
+  $age = 31;
+  $name = 'David';
   $cool = true;
 
 
