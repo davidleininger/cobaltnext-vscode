@@ -1,8 +1,8 @@
-# Oceanic Next Theme
+# Cobalt Next Theme
 
-> An Oceanic Next theme for VS Code.
+> Cobalt Next theme for VS Code.
 
-![Preview](images/preview.gif)
+![Preview](../images/preview.png)
 
 # Installation
 
@@ -12,4 +12,4 @@
 4. Search for `Cobalt Next`
 5. Click **Install** to install it
 6. Click **Reload** to reload the Code
-7. File > Preferences > Color Theme > **CobaltNext**
+7. File > Preferences > Color Theme > **Cobalt Next**
