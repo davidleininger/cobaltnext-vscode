@@ -2,6 +2,11 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.0.14] - 2018-5-4
+
+### Changed
+* Added indent highlighting
+
 ## [0.0.13] - 2018-4-5
 
 ### Changed
