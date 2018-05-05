@@ -47,6 +47,7 @@
     "editor.hoverHighlightBackground": "#343d46",
     "editor.inactiveSelectionBackground": "#1b2b34",
     // current line styles
+    "editorIndentGuide.activeBackground": "#65737e",
     "editor.lineHighlightBackground": "#343d46",
     "editor.lineHighlightBorder": "#343d46",
     "editor.rangeHighlightBackground": "#343d46",
