@@ -2,6 +2,14 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.0.15] - 2018-5-10
+
+### Changed
+* Updated Diff View
+* Changed, Updated, and Added Overview Ruler Colors
+* Added Git Merge Conflict Colors
+* Update Border Colors
+
 ## [0.0.14] - 2018-5-4
 
 ### Changed
