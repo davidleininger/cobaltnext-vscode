@@ -48,8 +48,8 @@
 ```
 
 ### Suggested Extensions For Theme
-[Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
-[Subtle Match Brackets](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets)
+* [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+* [Subtle Match Brackets](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets)
 
 ### Suggested Terminal Settings
 
