@@ -2,11 +2,12 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
-## [0.0.16] - 2018-6-4
+## [0.0.16 & 0.0.17] - 2018-6-4
 
 ### Changed
 * Updated Readme with Recommended Settings
 * Add Recommended Extensions for Theme to Readme
+* Cleaned up Readme
 
 ## [0.0.15] - 2018-5-10
 
