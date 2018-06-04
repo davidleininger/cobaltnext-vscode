@@ -17,25 +17,39 @@
 
 ```js
 {
-  "workbench.colorTheme": "Cobalt Next",
-  "workbench.editor.tabSizing": "shrink",
-  "editor.tabSize": 2,
-  "editor.formatOnSave": true,
-  "eslint.autoFixOnSave": true,
-  "prettier.eslintIntegration": true,
-  "editor.wordWrap": "on",
-  "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+  "color-highlight.markerType": "underline", // requires Color Highlight Extension
+  "color-highlight.markRuler": false, // requires Color Highlight Extension
+  "editor.colorDecorators": false, // using Color Hightlight instead
+  "editor.cursorBlinking": "solid",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 3,
+  "editor.letterSpacing": 0.5,
+  "editor.lineHeight": 22,
+  "editor.fontFamily": "Operator Mono, Menlo, monospace",
   "editor.fontSize": 15,
   "editor.fontWeight": "300",
-  "editor.lineHeight": 22,
-  "editor.letterSpacing": 0.5,
+  "editor.matchBrackets": false, // using Subtle Match Brackets instead
+  "editor.tabSize": 2,
   "files.trimTrailingWhitespace": true,
-  "editor.cursorStyle": "line",
-  "editor.cursorBlinking": "solid",
-  "explorer.decorations.colors": false,
-  "terminal.integrated.fontFamily": "Inconsolata for Powerline"
+  "subtleBrackets.styles": { // requires Subtle Match Bracket Extension
+    "global": {
+      "borderColor": "#fac863",
+      "borderWidth": "2px"
+    }
+  },
+  "terminal.integrated.fontFamily": "Inconsolata for Powerline",
+  "terminal.integrated.fontSize": 14,
+  "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+  "workbench.colorTheme": "Cobalt Next",
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "newUntitledFile",
 }
 ```
+
+### Suggested Extensions For Theme
+[Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+[Subtle Match Brackets](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets)
 
 ### Suggested Terminal Settings
 
