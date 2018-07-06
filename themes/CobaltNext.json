@@ -70,7 +70,9 @@
     "editorGutter.deletedBackground": "#ed6f7d",
     "editorGutter.modifiedBackground": "#343d46",
     // editorGroup
-    "editorGroup.background": "#ed6f7d",
+    "editorGroup.emptyBackground": "#22363f",
+    "editorGroup.focusedEmptyBorder": "#5fb3b3",
+    "editorPane.background": "#1b2b34",
     "editorGroup.border": "#343d46",
     "editorGroup.dropBackground": "#343d46",
     // editorGroupHeader

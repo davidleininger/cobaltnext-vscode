@@ -2,6 +2,11 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.0.18] - 2018-7-6
+
+### Changed
+* Add Theme Support for Grid editor layout
+
 ## [0.0.16 & 0.0.17] - 2018-6-4
 
 ### Changed
