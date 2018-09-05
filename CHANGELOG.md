@@ -2,9 +2,15 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.0.19] - 2018-7-6
+
+### Added
+* Add Support for New User Settings View
+* Add theme colors for Breadcrumb
+
 ## [0.0.18] - 2018-7-6
 
-### Changed
+### Added
 * Add Theme Support for Grid editor layout
 
 ## [0.0.16 & 0.0.17] - 2018-6-4
