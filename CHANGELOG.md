@@ -2,7 +2,12 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
-## [0.0.19] - 2018-7-6
+## [0.0.20] - 2018-10-8
+
+### Added
+* Add Support for Input Validation (Closed Issue #6)
+
+## [0.0.19] - 2018-9-5
 
 ### Added
 * Add Support for New User Settings View
