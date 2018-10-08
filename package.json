@@ -1,7 +1,7 @@
 {
     "name": "CobaltNext",
     "displayName": "Cobalt Next",
-    "description": "If Oceanic Next and Cobalt2 made a baby in the form of a theme for VSCode. Style whole window.",
+    "description": "If Oceanic Next and Cobalt2 made a baby in the form of a theme for VSCode.",
     "version": "0.0.20",
     "publisher": "dline",
     "engines": {
