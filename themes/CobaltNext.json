@@ -155,7 +155,7 @@
     "list.inactiveSelectionBackground": "#343d46",
     "list.inactiveSelectionForeground": "#d8dee9",
     // merge
-    "merge.border": "#ffffff00",
+    "merge.border": "#5fb3b3",
     "merge.commonContentBackground": "#ffffff00",
     "merge.commonHeaderBackground": "#ffffff00",
     "merge.currentContentBackground": "#5fb3b370",
