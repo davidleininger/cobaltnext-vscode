@@ -2,6 +2,11 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.0.21] - 2018-10-24
+
+### Added
+* Update Inline Merge Conflict Border
+
 ## [0.0.20] - 2018-10-8
 
 ### Added
