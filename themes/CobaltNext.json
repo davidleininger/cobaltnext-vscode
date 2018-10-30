@@ -4,7 +4,7 @@
   "colors": {
     // activityBar
     "activityBar.background": "#1b2b34",
-    "activityBar.border": "#343d46",
+    "activityBar.border": "#1b2b34",
     "activityBar.dropBackground": "#0b151b",
     "activityBar.foreground": "#d8dee9",
     "activityBarBadge.background": "#fac863",
@@ -217,7 +217,7 @@
     "settings.modifiedItemIndicator": "#5fb3b3",
     // sidebar
     "sideBar.background": "#0f1c23",
-    "sideBar.border": "#343d46",
+    "sideBar.border": "#1b2b34",
     "sideBar.foreground": "#65737E",
     "sideBarSectionHeader.background": "#1b2b34",
     "sideBarSectionHeader.foreground": "#d8dee9",
@@ -274,10 +274,11 @@
     "textPreformat.foreground": "#fac863",
     "textSeparator.foreground": "#1b2b34",
     // titleBar
-    "titleBar.activeForeground": "#222",
-    "titleBar.activeBackground": "#dadada",
-    "titleBar.inactiveForeground": "#b2b2b3",
-    "titleBar.inactiveBackground": "#f6f6f6",
+    "titleBar.activeBackground": "#1b2b34",
+    "titleBar.activeForeground": "#d8dee9",
+    "titleBar.inactiveBackground": "#1b2b34",
+    "titleBar.inactiveForeground": "#65737e",
+    "titleBar.border": "#1b2b34",
     "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
     // extras
     "walkThrough.embeddedEditorBackground": "#1b2b34",

@@ -2,6 +2,14 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.1.0] - 2018-10-30
+
+### Changed
+* Update the Title Bar to be dark and and match the whole window.
+
+### Added
+* Added Code the make Title Bar silver again to the README
+
 ## [0.0.21] - 2018-10-24
 
 ### Added

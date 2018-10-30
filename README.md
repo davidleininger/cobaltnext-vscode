@@ -47,6 +47,20 @@
 }
 ```
 
+## Miss The Light Title Bar?
+Odds are if you like a dark theme you might be ready to drop the light title bar, too. If you aren't and you miss it, add it back with the code below. Open the Command Palette with Ctrl+Shift+P (Windows) or Cmd+Shift+P (Mac) and select **Preferences: Open Settings (JSON)**.
+
+```js
+"workbench.colorCustomizations": {
+  "titleBar.activeForeground": "#222",
+  "titleBar.activeBackground": "#dadada",
+  "titleBar.inactiveForeground": "#b2b2b3",
+  "titleBar.inactiveBackground": "#f6f6f6",
+  "sideBar.border": "#1b2b34",
+  "activityBar.border": "#1b2b34",
+},
+```
+
 ### Suggested Extensions For Theme
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 * [Subtle Match Brackets](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets)
