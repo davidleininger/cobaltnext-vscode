@@ -2,6 +2,11 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.1.1] - 2019-3-21
+
+### Changed
+* Added recommended setting for Bracket Pair Colorizer 2 to README
+
 ## [0.1.0] - 2018-10-30
 
 ### Changed
