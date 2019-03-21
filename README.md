@@ -17,6 +17,12 @@
 
 ```js
 {
+  "bracket-pair-colorizer-2.colors": [ // requires Bracket Pair Colorizer 2
+    "#5fb3b3",
+    "#c5a5c5",
+    "#5a9bcf",
+    "#fac863",
+  ],
   "color-highlight.markerType": "underline", // requires Color Highlight Extension
   "color-highlight.markRuler": false, // requires Color Highlight Extension
   "editor.colorDecorators": false, // using Color Hightlight instead
@@ -62,6 +68,7 @@ Odds are if you like a dark theme you might be ready to drop the light title bar
 ```
 
 ### Suggested Extensions For Theme
+* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 * [Subtle Match Brackets](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets)
 
