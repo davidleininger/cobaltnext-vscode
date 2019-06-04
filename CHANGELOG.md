@@ -2,6 +2,12 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.1.2] - 2019-6-4
+
+### Changed
+* Fixed `editorGutter.modifiedBackground` as suggested from #11
+* Updated `editorOverviewRuler` colors to match merge and git colors
+
 ## [0.1.1] - 2019-3-21
 
 ### Changed
