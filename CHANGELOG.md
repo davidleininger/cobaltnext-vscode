@@ -2,7 +2,7 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
-## [0.1.2] - 2019-6-4
+## [0.1.2]/[0.1.3] - 2019-6-4
 
 ### Changed
 * Fixed `editorGutter.modifiedBackground` as suggested from #11
