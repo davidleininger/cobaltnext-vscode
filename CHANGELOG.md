@@ -2,6 +2,11 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.1.4] - 2019-6-7
+
+### Changed
+* Added new app icons to match VS Code's new icon
+
 ## [0.1.2]/[0.1.3] - 2019-6-4
 
 ### Changed
