@@ -82,6 +82,14 @@ Odds are if you like a dark theme you might be ready to drop the light title bar
 
 Want to change up your VS Code Icon to match your theme? _Done._
 
+### New Icon
+![VS Code Icon Preview](https://github.com/davidleininger/cobaltnext-vscode/blob/master/images/vscode-CobaltNext-New.png?raw=true)
+
+[Download the .icns file.](https://github.com/davidleininger/cobaltnext-vscode/blob/master/images/vscode-CobaltNext-New.icns) (Mac)
+
+[Download the .ico file.](https://github.com/davidleininger/cobaltnext-vscode/blob/master/images/vscode-CobaltNext-New.ico) (Win)
+
+### Old Icon - Incase you miss it
 ![VS Code Icon Preview](https://github.com/davidleininger/cobaltnext-vscode/blob/master/images/vscode-cobaltnext.png?raw=true)
 
 [Download the .icns file.](https://github.com/davidleininger/cobaltnext-vscode/blob/master/images/vscode-cobaltnext.icns) (Mac)
