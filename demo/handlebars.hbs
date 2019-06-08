@@ -1,10 +1,14 @@
 {{!-- only output author name if an author exists --}}
 <section class="{{#if customClass}}{{customClass}}{{/if}} {{#if background}}{{background}}{{/if}}">
-  {{#if title}}<h2>{{title}}</h2>{{/if}}
+  {{#if title}}
+    <h2>{{title}}</h2>
+  {{/if}}
   {{#if description}}{{{description}}}{{/if}}
   {{#each overviewItems}}
-  {{#if title}}<h3>{{title}}</h3>{{/if}}
-  {{#if description}}{{{description}}}{{/if}}
-  {{#if image}}<img src="image.url" />{{/if}}
+    {{#if title}}
+      <h3>{{title}}</h3>
+    {{/if}}
+    {{#if description}}{{{description}}}{{/if}}
+    {{#if image}}<img src="image.url" />{{/if}}
   {{/each}}
 </section>
