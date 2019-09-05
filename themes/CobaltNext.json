@@ -19,7 +19,7 @@
     "breadcrumb.background": "#0f1c23",
     // contrast
     // "contrastActiveBorder": "#ffffff00", // This breaks "Select Interpreter" panel
-    "contrastBorder": "#ffffff00",
+    // "contrastBorder": "#ffffff00", // removing because it's only needed in a high contrast theme
     // debug
     "debugExceptionWidget.background": "#1b2b34",
     "debugExceptionWidget.border": "#d8dee9",
