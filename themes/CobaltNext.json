@@ -18,7 +18,7 @@
     // breadcrumb
     "breadcrumb.background": "#0f1c23",
     // contrast
-    "contrastActiveBorder": "#ffffff00",
+    // "contrastActiveBorder": "#ffffff00", // This breaks "Select Interpreter" panel
     "contrastBorder": "#ffffff00",
     // debug
     "debugExceptionWidget.background": "#1b2b34",
