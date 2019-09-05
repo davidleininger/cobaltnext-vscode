@@ -71,6 +71,7 @@ Odds are if you like a dark theme you might be ready to drop the light title bar
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 * [Subtle Match Brackets](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets)
+* [Ember Syntax](https://marketplace.visualstudio.com/items?itemName=dhedgecock.ember-syntax) - Perferred syntax if using handlebars
 
 ### Suggested Terminal Settings
 
