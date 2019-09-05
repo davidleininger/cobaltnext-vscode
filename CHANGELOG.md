@@ -6,6 +6,8 @@ file.
 
 ### Changed
 * Added Handlebars.hbs to the demo folder
+* remove contrastBorder and contrastBorderActive since they are only for high contrast themes and breaking the "Select Interpreter" panel
+* Update Readme for suggested Handlebars extension
 
 ## [0.1.4] - 2019-6-7
 
