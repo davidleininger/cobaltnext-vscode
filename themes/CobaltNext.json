@@ -287,9 +287,7 @@
     "walkThrough.embeddedEditorBackground": "#1b2b34",
     "welcomePage.buttonBackground": "#343d46",
     "welcomePage.buttonHoverBackground": "#0f1c23",
-    "widget.shadow": "#0f1c23",
-    "window.activeBorder": "#4f5b66",
-    "window.inactiveBorder": "#1b2b34",
+    "widget.shadow": "#0f1c23"
   },
   "tokenColors": [
     {
