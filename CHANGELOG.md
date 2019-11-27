@@ -6,7 +6,7 @@ file.
 
 ### Changed
 * Updated the active and inactive states in the activity bar.
-* Added active and inactive states for window borders. I kept it as simple as possible.
+* Updated Readme with settings for active and inactive states for window borders.
 
 ## [0.1.5] - 2019-##-##
 
