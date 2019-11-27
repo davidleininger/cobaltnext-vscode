@@ -67,6 +67,25 @@ Odds are if you like a dark theme you might be ready to drop the light title bar
 },
 ```
 
+## Want active and inactive window borders?
+Personally, I don't like active window borders, but if you'd like it, here are two examples.Open the Command Palette with Ctrl+Shift+P (Windows) or Cmd+Shift+P (Mac) and select **Preferences: Open Settings (JSON)**.
+
+_subtle_
+```js
+"workbench.colorCustomizations": {
+  "window.activeBorder": "#4f5b66",
+  "window.inactiveBorder": "#1b2b34",
+}
+```
+
+_full color_
+```js
+"workbench.colorCustomizations": {
+  "window.activeBorder": "#5fb3b3",
+  "window.inactiveBorder": "#1b2b34",
+}
+```
+
 ### Suggested Extensions For Theme
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)

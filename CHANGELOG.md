@@ -5,13 +5,14 @@ file.
 ## [0.1.6] - 2019-11-27
 
 ### Changed
-* Updated the inactive and active states in the activity bar.
+* Updated the active and inactive states in the activity bar.
+* Updated Readme with settings for active and inactive states for window borders.
 
 ## [0.1.5] - 2019-##-##
 
 ### Changed
 * Added Handlebars.hbs to the demo folder
-* remove contrastBorder and contrastBorderActive since they are only for high contrast themes and breaking the "Select Interpreter" panel
+* Remove `contrastBorder` and `contrastBorderActive` since they are only for high contrast themes and breaking the "Select Interpreter" panel
 * Update Readme for suggested Handlebars extension
 
 ## [0.1.4] - 2019-6-7
