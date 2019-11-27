@@ -3,6 +3,8 @@
   "type": "dark",
   "colors": {
     // activityBar
+    "activityBar.activeBorder":  "#5fb3b3",
+    "activityBar.activeBackground": "#343d46",
     "activityBar.background": "#1b2b34",
     "activityBar.border": "#1b2b34",
     "activityBar.dropBackground": "#0b151b",
@@ -10,8 +12,6 @@
     "activityBar.inactiveForeground": "#65737e",
     "activityBarBadge.background": "#fac863",
     "activityBarBadge.foreground": "#1b2b34",
-    "activityBar.activeBorder":  "#5fb3b3",
-    "activityBar.activeBackground": "#343d46",
     // badge
     "badge.background": "#343d46",
     "badge.foreground": "#d8dee9",
