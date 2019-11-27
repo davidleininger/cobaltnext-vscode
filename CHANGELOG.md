@@ -2,6 +2,11 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.1.6] - 2019-11-27
+
+### Changed
+* Updated the inactive and active states in the activity bar.
+
 ## [0.1.5] - 2019-##-##
 
 ### Changed
