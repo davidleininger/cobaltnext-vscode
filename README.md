@@ -34,10 +34,10 @@
   "editor.fontFamily": "Operator Mono, Menlo, monospace",
   "editor.fontSize": 15,
   "editor.fontWeight": "300",
-  "editor.matchBrackets": false, // using Subtle Match Brackets instead
+  "editor.matchBrackets": never, // using Subtle Match Brackets instead
   "editor.tabSize": 2,
   "files.trimTrailingWhitespace": true,
-  "subtleBrackets.styles": { // requires Subtle Match Bracket Extension
+  "subtleBrackets.style": { // requires Subtle Match Bracket Extension
     "global": {
       "borderColor": "#fac863",
       "borderWidth": "2px"
