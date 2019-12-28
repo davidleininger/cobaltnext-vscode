@@ -2,6 +2,11 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.1.7] - 2019-11-27
+
+### Changed
+* Fix errors in readme
+
 ## [0.1.6] - 2019-11-27
 
 ### Changed
