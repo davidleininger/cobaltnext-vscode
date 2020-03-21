@@ -2,7 +2,7 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
-## [0.2.0] - 2020-3-24
+## [0.2.0] - 2020-3-21
 
 ### Changed
 * Added support for modified tab borders: `tab.activeModifiedBorder`, `tab.inactiveModifiedBorder`, `tab.unfocusedActiveModifiedBorder`, and `tab.unfocusedInactiveModifiedBorder`
