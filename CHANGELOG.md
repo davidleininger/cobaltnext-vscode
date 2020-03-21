@@ -7,6 +7,7 @@ file.
 ### Changed
 * Added support for modified tab borders: `tab.activeModifiedBorder`, `tab.inactiveModifiedBorder`, `tab.unfocusedActiveModifiedBorder`, and `tab.unfocusedInactiveModifiedBorder`
 * Add Dark Version of Theme `Cobalt Next Dark`
+* Updated Readme for Dark Version
 
 ## [0.1.7] - 2019-12-28
 
