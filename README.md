@@ -2,7 +2,11 @@
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/dline.CobaltNext.svg)](https://marketplace.visualstudio.com/items?itemName=dline.CobaltNext)
 
-![Preview](https://raw.githubusercontent.com/davidleininger/cobaltnext-vscode/master/images/screenshot.png)
+### Original Version - "Cobalt Next"
+![Preview Original](https://raw.githubusercontent.com/davidleininger/cobaltnext-vscode/master/images/screenshot.png)
+
+### Dark Version - "Cobalt Next Dark"
+![Preview Dark](https://raw.githubusercontent.com/davidleininger/cobaltnext-vscode/master/images/screenshot-dark.png)
 
 # Installation
 
@@ -10,7 +14,7 @@
 2. Search for `Cobalt Next`.
 3. Click **Install** to install it.
 4. Click **Reload** to reload the your editor
-5. File > Preferences > Color Theme > **CobaltNext** or change it in User Settings.
+5. File > Preferences > Color Theme > **Cobalt Next** or change it in User Settings. Try the dark version with **Cobalt Next Dark**.
 6. Optional: Use the recommended settings below for best experience
 
 ## Recommended Settings

@@ -21,6 +21,11 @@
                 "label": "Cobalt Next",
                 "uiTheme": "vs-dark",
                 "path": "./themes/CobaltNext.json"
+            },
+            {
+                "label": "Cobalt Next Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CobaltNext-Dark.json"
             }
         ]
     }
