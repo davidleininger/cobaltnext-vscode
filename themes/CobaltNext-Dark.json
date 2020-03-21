@@ -7,7 +7,7 @@
     "activityBar.activeBackground": "#1b2b34",
     "activityBar.background": "#0f1c23",
     "activityBar.border": "#5fb3b322",
-    "activityBar.dropBackground": "#0b151b",
+    "activityBar.dropBackground": "#1b2b34",
     "activityBar.foreground": "#d8dee9",
     "activityBar.inactiveForeground": "#65737e",
     "activityBarBadge.background": "#fac863",
@@ -35,7 +35,7 @@
     "diffEditor.removedTextBackground": "#ed6f7d22",
     "diffEditor.removedTextBorder": "#ed6f7d",
     // dropdown
-    "dropdown.background": "#0b151b",
+    "dropdown.background": "#1b2b34",
     "dropdown.border": "#5fb3b3",
     "dropdown.foreground": "#ffffff",
     // editor
@@ -107,7 +107,7 @@
     "editorOverviewRuler.warningContentForeground": "#fac863",
     "editorRuler.foreground": "#4f5b66",
     // editorSuggestWidget
-    "editorSuggestWidget.background": "#0b151b",
+    "editorSuggestWidget.background": "#1b2b34",
     "editorSuggestWidget.border": "#5fb3b3",
     "editorSuggestWidget.foreground": "#d8dee9",
     "editorSuggestWidget.highlightForeground": "#fac863",
@@ -204,8 +204,10 @@
     "peekViewTitleDescription.foreground": "#d8dee9",
     "peekViewTitleLabel.foreground": "#fac863",
     // picker
-    "pickerGroup.border": "#0f1c23",
+    "pickerGroup.border": "#1b2b34",
     "pickerGroup.foreground": "#d8dee9",
+    "quickInput.background": "#1b2b34",
+    "quickInput.foreground": "#65737E",
     // progressBar
     "progressBar.background": "#5fb3b3",
     // scrollbar
