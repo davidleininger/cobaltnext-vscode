@@ -19,7 +19,7 @@
     "button.background": "#5fb3b3",
     "button.hoverBackground": "#4e9b9b",
     // breadcrumb
-    "breadcrumb.background": "#0f1c23",
+    "breadcrumb.background": "#1b2b34",
     // contrast
     // "contrastActiveBorder": "#ffffff00", // This breaks "Select Interpreter" panel
     // "contrastBorder": "#ffffff00", // removing because it's only needed in a high contrast theme
@@ -86,7 +86,7 @@
     "editorGroupHeader.tabsBackground": "#0f1c23",
     "editorGroupHeader.tabsBorder": "#5fb3b322",
     // editorHoverWidget
-    "editorHoverWidget.background": "#0f1c23",
+    "editorHoverWidget.background": "#1b2b34",
     "editorHoverWidget.border": "#5fb3b3",
     "editorLineNumber.foreground": "#4f5b66",
     "editorLink.activeForeground": "#65737e",
