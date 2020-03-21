@@ -241,12 +241,16 @@
     // tab
     "tab.activeBackground": "#343d46",
     "tab.activeForeground": "#fff",
+    "tab.activeModifiedBorder": "#5fb3b3",
     "tab.border": "#0b151b",
     "tab.activeBorder": "#5fb3b3",
     "tab.inactiveBackground": "#1b2b34",
     "tab.inactiveForeground": "#65737e",
+    "tab.inactiveModifiedBorder": "#5fb3b377",
     "tab.unfocusedActiveForeground": "#d8dee9",
     "tab.unfocusedInactiveForeground": "#d8dee9",
+    "tab.unfocusedActiveModifiedBorder": "#5fb3b3bb",
+    "tab.unfocusedInactiveModifiedBorder": "#5fb3b377",
     // --- workbench: terminal
     "terminal.ansiBlack": "#0f1c23",
     "terminal.ansiRed": "#ed6f7d",
