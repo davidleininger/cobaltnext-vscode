@@ -3,10 +3,10 @@
 [![Version](https://vsmarketplacebadge.apphb.com/version/dline.CobaltNext.svg)](https://marketplace.visualstudio.com/items?itemName=dline.CobaltNext)
 
 ### Original Version - "Cobalt Next"
-![Preview Original](https://raw.githubusercontent.com/davidleininger/cobaltnext-vscode/master/images/screenshot.png)
+![Screenshot Original](https://raw.githubusercontent.com/davidleininger/cobaltnext-vscode/master/images/screenshot.png)
 
 ### Dark Version - "Cobalt Next Dark"
-![Preview Dark](https://raw.githubusercontent.com/davidleininger/cobaltnext-vscode/master/images/preview-dark.png)
+![Screenshot Dark](https://raw.githubusercontent.com/davidleininger/cobaltnext-vscode/master/images/screenshot-dark.png)
 
 # Installation
 
