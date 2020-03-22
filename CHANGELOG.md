@@ -2,6 +2,13 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.2.1] - 2020-3-22
+
+### Changed
+* Updated Terminal Blacks for Original Theme
+* Updated Dark Terminal
+* Added All `ansiBright` Colors
+
 ## [0.2.0] - 2020-3-21
 
 ### Changed
