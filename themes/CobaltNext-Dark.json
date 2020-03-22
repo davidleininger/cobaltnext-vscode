@@ -207,7 +207,7 @@
     "pickerGroup.border": "#1b2b34",
     "pickerGroup.foreground": "#d8dee9",
     "quickInput.background": "#1b2b34",
-    "quickInput.foreground": "#65737E",
+    "quickInput.foreground": "#d8dee9aa",
     // progressBar
     "progressBar.background": "#5fb3b3",
     // scrollbar
