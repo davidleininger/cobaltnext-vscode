@@ -2,6 +2,11 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.2.2] - 2020-3-22
+
+### Changed
+* Updated the color of the `quickInput.foreground` for better visibility
+
 ## [0.2.1] - 2020-3-22
 
 ### Changed
