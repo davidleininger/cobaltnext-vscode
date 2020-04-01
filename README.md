@@ -38,7 +38,7 @@
   "editor.fontFamily": "Operator Mono, Menlo, monospace",
   "editor.fontSize": 15,
   "editor.fontWeight": "300",
-  "editor.matchBrackets": never, // using Subtle Match Brackets instead
+  "editor.matchBrackets": "never", // using Subtle Match Brackets instead
   "editor.tabSize": 2,
   "files.trimTrailingWhitespace": true,
   "subtleBrackets.style": { // requires Subtle Match Bracket Extension
