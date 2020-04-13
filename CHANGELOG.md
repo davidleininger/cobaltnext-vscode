@@ -2,6 +2,11 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.2.3] - 2020-4-13
+
+### Changed
+* Updated the color of selections inside of inputs on the Dark Version.
+
 ## [0.2.2] - 2020-3-22
 
 ### Changed

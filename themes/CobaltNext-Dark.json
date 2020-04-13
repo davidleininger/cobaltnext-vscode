@@ -1,5 +1,5 @@
 {
-  "name": "Cobalt Next",
+  "name": "Cobalt Next Dark",
   "type": "dark",
   "colors": {
     // activityBar
@@ -216,7 +216,7 @@
     "scrollbarSlider.background": "#4f5b66aa",
     "scrollbarSlider.hoverBackground": "#343d46aa",
     // selection
-    "selection.background": "#0d3a58",
+    "selection.background": "#fac86344",
     // settings
     "settings.dropdownListBorder": "#5fb3b3",
     "settings.modifiedItemIndicator": "#5fb3b3",
