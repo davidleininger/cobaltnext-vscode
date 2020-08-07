@@ -83,7 +83,7 @@
     "editorGroup.dropBackground": "#343d46",
     // editorGroupHeader
     "editorGroupHeader.noTabsBackground": "#1b2b34",
-    "editorGroupHeader.tabsBackground": "#0f1c23",
+    "editorGroupHeader.tabsBackground": "#1b2b34",
     "editorGroupHeader.tabsBorder": "#5fb3b322",
     // editorHoverWidget
     "editorHoverWidget.background": "#1b2b34",
@@ -242,13 +242,14 @@
     "statusBarItem.prominentBackground": "#1b2b34",
     "statusBarItem.prominentHoverBackground": "#343d46",
     // tab
-    "tab.activeBackground": "#1b2b34",
+    "tab.activeBackground": "#0f1c23",
     "tab.activeForeground": "#fff",
     "tab.activeModifiedBorder": "#5fb3b3",
     "tab.border": "#5fb3b322",
-    "tab.activeBorder": "#5fb3b3",
-    "tab.inactiveBackground": "#0f1c23",
-    "tab.inactiveForeground": "#65737e",
+    "tab.activeBorder": "#0f1c23",
+    "tab.activeBorderTop": "#5fb3b3",
+    "tab.inactiveBackground": "#1b2b34",
+    "tab.inactiveForeground": "#d8dee999",
     "tab.inactiveModifiedBorder": "#5fb3b377",
     "tab.unfocusedActiveForeground": "#d8dee9",
     "tab.unfocusedInactiveForeground": "#d8dee9",
