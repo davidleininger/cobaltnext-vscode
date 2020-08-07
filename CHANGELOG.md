@@ -2,6 +2,11 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.2.5] - 2020-8-7
+
+### Changed
+* Updated the tab styles on the Dark Version.
+
 ## [0.2.3] - 2020-4-13
 
 ### Changed
