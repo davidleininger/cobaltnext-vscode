@@ -274,7 +274,7 @@
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.background": "#0f1c23",
     "terminal.foreground": "#d8dee9",
-    "terminalCursor.background": "#fac863",
+    "terminalCursor.background": "#0f1c23",
     "terminalCursor.foreground": "#fac863",
     // textBlockQuote
     "textBlockQuote.background": "#343d46",
