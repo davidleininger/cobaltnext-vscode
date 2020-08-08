@@ -2,6 +2,11 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.2.6] - 2020-8-8
+
+### Changed
+* Update terminal cursor styles for to show text behind cursor
+
 ## [0.2.5] - 2020-8-7
 
 ### Changed
