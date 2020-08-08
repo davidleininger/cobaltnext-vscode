@@ -270,7 +270,7 @@
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.background": "#1b2b34",
     "terminal.foreground": "#d8dee9",
-    "terminalCursor.background": "#fac863",
+    "terminalCursor.background": "#1b2b34",
     "terminalCursor.foreground": "#fac863",
     // textBlockQuote
     "textBlockQuote.background": "#343d46",
