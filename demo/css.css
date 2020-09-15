@@ -15,6 +15,12 @@ a {
   -webkit-text-decoration-skip: objects; /* 2 */
 }
 
+@media screen and (min-width: 600px) {
+  .container {
+    background: pink;
+  }
+}
+
 #test {
   background: pink;
 }
