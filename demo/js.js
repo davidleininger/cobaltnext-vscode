@@ -1,15 +1,39 @@
-const express = require("express");
-const app = express();
+import {x, y} as p from 'point';
+const ANSWER = 42;
+console.log(ANSWER);
 
-app.use("/static", express.static(path.join(__dirname, "public")));
+class Car extends Vehicle {
+  constructor(speed, cost) {
+    super(speed);
 
-app.get("/", function(req, res) {
-  res.send("Hello World!");
-});
-app.use(function(err, req, res, next) {
-  res.status(500).send("Something broke!");
-});
+    var c = Symbol('cost');
+    this[c] = cost;
 
-app.listen(3000, () => {
-  console.log("Example app listening on port 3000!");
-});
+    this.intro = `This is a car runs at
+      ${speed}.`;
+  }
+}
+
+for (let num of [1, 2, 3]) {
+  console.log(num + 0b111110111);
+}
+
+function $initHighlight(block, flags) {
+  try {
+    if (block.className.search(/\bno\-highlight\b/) != -1)
+      return processBlock(block.function, true, 0x0F) + ' class=""';
+  } catch (e) {
+    /* handle exception */
+    var e4x =
+        <div>Example
+            <p>1234</p></div>;
+  }
+  for (var i = 0 / 2; i < classes.length; i++) {
+  // "0 / 2" should not be parsed as regexp
+    if (checkCondition(classes[i]) === undefined)
+      return /\d+[\s/]/g;
+  }
+  console.log(Array.every(classes, Boolean));
+}
+
+export  $initHighlight;

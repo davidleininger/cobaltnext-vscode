@@ -692,6 +692,15 @@
       }
     },
     {
+      "name": "HTML Class Component (Vue, React, etc)",
+      "scope": [
+        "support.class.component.html"
+      ],
+      "settings": {
+        "foreground": "#ed6f7d"
+      }
+    },
+    {
       "name": "[MARKDOWN] - Changed",
       "scope": "markup.changed",
       "settings": {

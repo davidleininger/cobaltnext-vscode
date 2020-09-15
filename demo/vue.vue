@@ -1,6 +1,7 @@
 <template>
   <div>
     <button @click="getNewIntent" :class="{ disabled: uiState === 'listening' }"></button>
+    <Component />
   </div>
 </template>
 
