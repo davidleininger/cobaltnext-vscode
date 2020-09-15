@@ -8,6 +8,10 @@
 ### Dark Version - "Cobalt Next Dark"
 ![Screenshot Dark](https://raw.githubusercontent.com/davidleininger/cobaltnext-vscode/master/images/screenshot-dark.png)
 
+### Minimal Version - "Cobalt Next Minimal"
+![Screenshot Minimal](https://raw.githubusercontent.com/davidleininger/cobaltnext-vscode/master/images/screenshot-minimal.png)
+*This one is not super different from `Cobalt Next Dark`, but it has a few extra treats to clean things up a bit. Maximize your expereince by using [Caleb Porzio's](https://twitter.com/calebporzio) [Make VS Code Awesome](https://makevscodeawesome.com/) Course. _Silence the noise and hide all the crap!_
+
 # Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
