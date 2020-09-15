@@ -8,18 +8,19 @@
     "activityBar.background": "#0f1c23",
     "activityBar.border": "#5fb3b322",
     "activityBar.dropBackground": "#1b2b34",
+    "activityBar.dropBorder": "#5fb3b3",
     "activityBar.foreground": "#d8dee9",
-    "activityBar.inactiveForeground": "#65737e",
-    "activityBarBadge.background": "#fac863",
+    "activityBar.inactiveForeground": "#5fb3b377",
+    "activityBarBadge.background": "#5fb3b377",
     "activityBarBadge.foreground": "#1b2b34",
     // badge
-    "badge.background": "#343d46",
+    "badge.background": "#5fb3b377",
     "badge.foreground": "#d8dee9",
     // button
-    "button.background": "#5fb3b3",
-    "button.hoverBackground": "#4e9b9b",
+    "button.background": "#5fb3b3dd",
+    "button.hoverBackground": "#5fb3b3",
     // breadcrumb
-    "breadcrumb.background": "#1b2b34",
+    "breadcrumb.background": "#0f1c23",
     // contrast
     // "contrastActiveBorder": "#ffffff00", // This breaks "Select Interpreter" panel
     // "contrastBorder": "#ffffff00", // removing because it's only needed in a high contrast theme
@@ -49,8 +50,8 @@
     // Other Found Items
     "editor.findMatchHighlightBackground": "#5fb3b370",
     "editor.findRangeHighlightBackground": "#5fb3b370",
-    "editor.hoverHighlightBackground": "#343d46",
-    "editor.inactiveSelectionBackground": "#1b2b34",
+    "editor.hoverHighlightBackground": "#5fb3b322",
+    "editor.inactiveSelectionBackground": "#5fb3b322",
     // current line styles
 		"editorIndentGuide.activeBackground": "#0f1c23",
 		"editorIndentGuide.background": "#0f1c23",
@@ -62,7 +63,7 @@
     "editor.selectionForeground": "#fff",
     "editor.selectionHighlightBackground": "#343d46",
     "editor.selectionHighlightBorder": "#5fb3b3",
-    "editor.wordHighlightBackground": "#4f5b66",
+    "editor.wordHighlightBackground": "#343d46",
     "editor.wordHighlightStrongBackground": "#65737e",
     "editorBracketMatch.background": "#343d46",
     "editorBracketMatch.border": "#fac863",
@@ -84,11 +85,11 @@
     // editorGroupHeader
     "editorGroupHeader.noTabsBackground": "#1b2b34",
     "editorGroupHeader.tabsBackground": "#1b2b34",
-    "editorGroupHeader.tabsBorder": "#5fb3b322",
+    "editorGroupHeader.tabsBorder": "#1b2b34",
     // editorHoverWidget
     "editorHoverWidget.background": "#1b2b34",
     "editorHoverWidget.border": "#5fb3b3",
-    "editorLineNumber.foreground": "#4f5b66",
+    "editorLineNumber.foreground": "#343d46dd",
     "editorLink.activeForeground": "#65737e",
     // editorMarkerNavigation
     "editorMarkerNavigation.background": "#343d46",
