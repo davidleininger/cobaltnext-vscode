@@ -2,6 +2,12 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.3.0] - 2020-9-16
+
+### Added
+* Added minimal version. While it's not super different from Cobalt Dark, it does have a few extra treats in there.
+  - I strongly recommend going through [Caleb Porzio's](https://twitter.com/calebporzio) [Make VS Code Awesome](https://makevscodeawesome.com/) Course if you're going to use the Minimal Version.
+
 ## [0.2.7] - 2020-9-15
 
 ### Changed
