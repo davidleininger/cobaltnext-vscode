@@ -18,7 +18,9 @@
 2. Search for `Cobalt Next`.
 3. Click **Install** to install it.
 4. Click **Reload** to reload the your editor
-5. File > Preferences > Color Theme > **Cobalt Next** or change it in User Settings. Try the dark version with **Cobalt Next Dark**.
+5. File > Preferences > Color Theme > **Cobalt Next** or change it in User Settings.
+  - Try the dark version with **Cobalt Next Dark**.
+  - Try the minimal version with **Cobalt Next Minimal**. Spice it up with [Caleb Porzio's](https://twitter.com/calebporzio) [Make VS Code Awesome](https://makevscodeawesome.com/) Course.
 6. Optional: Use the recommended settings below for best experience
 
 ## Recommended Settings
