@@ -2,6 +2,11 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.2.7] - 2020-9-15
+
+### Changed
+* Fix the color for component in JSX because tokens have been updated
+
 ## [0.2.6] - 2020-8-8
 
 ### Changed
