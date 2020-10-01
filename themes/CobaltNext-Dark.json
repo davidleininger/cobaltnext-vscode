@@ -58,7 +58,7 @@
     "editor.lineHighlightBorder": "#343d46",
     "editor.rangeHighlightBackground": "#343d46",
     // selected Text colours
-    "editor.selectionBackground": "#4f5b66",
+    "editor.selectionBackground": "#5fb3b322",
     "editor.selectionForeground": "#fff",
     "editor.selectionHighlightBackground": "#343d46",
     "editor.selectionHighlightBorder": "#5fb3b3",

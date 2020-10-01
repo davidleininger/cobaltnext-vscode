@@ -2,6 +2,11 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.3.1] - 2020-10-1
+
+### Changed
+* Fixed highlight color on Dark and Minimal Themes
+
 ## [0.3.0] - 2020-9-16
 
 ### Added
