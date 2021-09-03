@@ -2,6 +2,13 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.3.2] - 2020-10-1
+
+### Changed
+* Added support for native bracket color matching
+  - To use native bracket color matching, remove the `Bracket Pair Colorizer` extension and add `"editor.bracketPairColorization.enabled": true,` to your `settings.json` file
+* Updated README with updated settings
+
 ## [0.3.1] - 2020-10-1
 
 ### Changed
