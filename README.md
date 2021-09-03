@@ -27,12 +27,7 @@
 
 ```js
 {
-  "bracket-pair-colorizer-2.colors": [ // requires Bracket Pair Colorizer 2
-    "#5fb3b3",
-    "#c5a5c5",
-    "#5a9bcf",
-    "#fac863",
-  ],
+  "editor.bracketPairColorization.enabled": true, // Native bracket matching - colors included in theme
   "color-highlight.markerType": "underline", // requires Color Highlight Extension
   "color-highlight.markRuler": false, // requires Color Highlight Extension
   "editor.colorDecorators": false, // using Color Hightlight instead
@@ -40,9 +35,9 @@
   "editor.cursorStyle": "line",
   "editor.cursorWidth": 3,
   "editor.letterSpacing": 0.5,
-  "editor.lineHeight": 22,
+  "editor.lineHeight": 32,
   "editor.fontFamily": "Operator Mono, Menlo, monospace",
-  "editor.fontSize": 15,
+  "editor.fontSize": 16,
   "editor.fontWeight": "300",
   "editor.matchBrackets": "never", // using Subtle Match Brackets instead
   "editor.tabSize": 2,
@@ -61,20 +56,6 @@
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "newUntitledFile",
 }
-```
-
-## Miss The Light Title Bar?
-Odds are if you like a dark theme you might be ready to drop the light title bar, too. If you aren't and you miss it, add it back with the code below. Open the Command Palette with Ctrl+Shift+P (Windows) or Cmd+Shift+P (Mac) and select **Preferences: Open Settings (JSON)**.
-
-```js
-"workbench.colorCustomizations": {
-  "titleBar.activeForeground": "#222",
-  "titleBar.activeBackground": "#dadada",
-  "titleBar.inactiveForeground": "#b2b2b3",
-  "titleBar.inactiveBackground": "#f6f6f6",
-  "sideBar.border": "#1b2b34",
-  "activityBar.border": "#1b2b34",
-},
 ```
 
 ## Want active and inactive window borders?
@@ -97,10 +78,8 @@ _full color_
 ```
 
 ### Suggested Extensions For Theme
-* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 * [Subtle Match Brackets](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets)
-* [Ember Syntax](https://marketplace.visualstudio.com/items?itemName=dhedgecock.ember-syntax) - Perferred syntax if using handlebars
 
 ### Suggested Terminal Settings
 
