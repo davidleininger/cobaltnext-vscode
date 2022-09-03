@@ -2,6 +2,11 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
+## [0.4.0] - 2022-09-2
+
+### Changed
+* Change the color/styles for file diffs. Before diffs were hard to read because each line got a border and a background color. Now it's a cleaned up experience that more mimics github.
+
 ## [0.3.2] - 2020-10-1
 
 ### Changed
