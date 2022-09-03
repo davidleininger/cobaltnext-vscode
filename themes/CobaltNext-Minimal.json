@@ -31,12 +31,12 @@
     // description
     "descriptionForeground": "#d8dee9",
     // diff
-    "diffEditor.insertedTextBackground": "#99c79422",
+    "diffEditor.insertedTextBackground": "#99c79415",
     "diffEditor.insertedTextBorder": "#99c79400",
-    "diffEditor.insertedLineBackground": "#99c79411",
+    "diffEditor.insertedLineBackground": "#223132",
     "diffEditor.removedTextBackground": "#ed6f7d00",
     "diffEditor.removedTextBorder": "#ed6f7d00",
-    "diffEditor.removedLineBackground": "#ed6f7d22",
+    "diffEditor.removedLineBackground": "#2E272F",
     "diffEditorOverview.insertedForeground": "#99c79499",
     "diffEditorOverview.removedForeground": "#ed6f7d99",
     // dropdown
