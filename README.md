@@ -1,6 +1,6 @@
 # CobaltNext Theme for VS Code
 
-[![Version](https://vsmarketplacebadges.dev/version/dline.CobaltNext.svg)](https://vsmarketplacebadges.dev/version/dline.CobaltNext.svg)
+[![Version](https://vsmarketplacebadges.dev/version/dline.CobaltNext.png)](https://vsmarketplacebadges.dev/version/dline.CobaltNext.png)
 
 ### Original Version - "Cobalt Next"
 ![Screenshot Original](https://raw.githubusercontent.com/davidleininger/cobaltnext-vscode/master/images/screenshot.png)
