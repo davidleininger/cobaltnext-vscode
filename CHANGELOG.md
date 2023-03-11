@@ -2,7 +2,7 @@
 All notable changes to the "CobaltNext" extension will be documented in this
 file.
 
-## [0.4.4] - 2023-03-10
+## [0.4.5] - 2023-03-10
 
 ### Fixed/Changed
 * Fixed the issue where custom component and web-component tags didn't get the yellow color and appeared as normal tags. This wasn't an issue in react (as far as I'm aware), but it was causing a problem in Vue and a few other frame works.
