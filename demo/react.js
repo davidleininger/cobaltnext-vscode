@@ -6,6 +6,7 @@ class Wow extends Component {
       <div className="wow">
         <p>Here is text</p>
         <input type="number" />
+        <LinkBlock />
       </div>
     );
   }

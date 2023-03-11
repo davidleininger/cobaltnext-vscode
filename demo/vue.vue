@@ -2,6 +2,7 @@
   <div>
     <button @click="getNewIntent" :class="{ disabled: uiState === 'listening' }"></button>
     <Component />
+    <web-comp>sdfasldfja</web-comp>
   </div>
 </template>
 
